@@ -1,0 +1,5 @@
+interface:
+  display_name: "小水手绘注解"
+  short_description: "保留原图，为照片、产品与页面添加自然手绘注解"
+  default_prompt: "使用 $shui-handdraw-annotation，根据这张原图的用途和画面密度添加手绘注解，保留原有设计。"
+
